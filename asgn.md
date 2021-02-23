@@ -4,6 +4,6 @@ Clone the GitHub repository https://github.com/jbshep/codecollab/.
 
 Under the folder named `ideas`, add a file of the form `<username>-idea.txt` where `<username>` is your BVU username.  The contents of your file should be a course description of a course you think would be fun to take at BVU.
 
-In the `README.md` file, add a link to your file in the numbered list.  The text of the link should be your name, listed as "Lastname, Firstname" and the list should remain in alphabetical order.  Do *not* remove anyone else's name.
+In the `ideas/README.md` file, add a link to your file in the numbered list.  The text of the link should be your name, listed as "Lastname, Firstname" and the list should remain in alphabetical order.  Do *not* remove anyone else's name.
 
 Push all of your changes back to GitHub by the due date.  Your changes in this assignment should never remove another student's changes.
