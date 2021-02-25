@@ -1,0 +1,1 @@
+A class that is completely through github. The student would basically be a "contractor" that must submit professional code (with test cases and all) to the github. Das all I got not sure how this would really work.
