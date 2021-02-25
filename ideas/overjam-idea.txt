@@ -1,0 +1,7 @@
+CMSC 666
+Coding for Evil
+
+In this course you will learn how to wreak havoc upon the world using
+advanced computer science concepts mixed with tomfoolery.
+
+Pre-req: CMSC 101 Coding for Minor Inconvenience
