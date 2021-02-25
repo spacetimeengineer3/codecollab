@@ -1,0 +1,4 @@
+In this course, student will be able to learn about the design,
+testing, and production of games with a variety of backends and game engines.
+Emhasis will be placed on game art design, programming in the backend, 
+scene management, playtesting, and debugging.
