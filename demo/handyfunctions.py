@@ -4,3 +4,6 @@ def first(L):
 
 def rest(L):
     return L[1:]
+
+def second(L):
+    return L[1]
