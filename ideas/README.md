@@ -7,3 +7,4 @@
 * [Shepherd, jbshepspam](jbshepspam-idea.txt)
 * [Overkamp, James](overjam-idea.txt)
 * [Brown, Conner](Browcon2-idea.txt)
++ [Daughenbaugh, Caleb](daugcal-idea.txt)
