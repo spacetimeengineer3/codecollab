@@ -1,0 +1,3 @@
+Students will build dynamic, database-driven, real-world Web applications using standard and emerging
+technologies. Emphasis will be placed on scalability, managing users, managing application state, tiered design,
+asynchronous requests, and full-stack Web frameworks. Prerequisite: CMSC 182.
