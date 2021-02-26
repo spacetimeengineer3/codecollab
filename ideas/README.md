@@ -8,7 +8,6 @@
 * [Shepherd, jbshepspam](jbshepspam-idea.txt)
 * [Melohn, Michael](melomic-idea.txt)
 * [Overkamp, James](overjam-idea.txt)
-* [Brown, Conner](Browcon2-idea.txt)
 * [Thomsen, Nate](thomnat2-idea.txt)
 * [Daughenbaugh, Caleb](daugcal-idea.txt)
 
