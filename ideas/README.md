@@ -3,6 +3,7 @@
 * [Bohner, Joshua](bohnjos-idea.txt)
 * [Brown, Conner](Browcon2-idea.txt)
 * [Clinesmith, Michael](clinmic2-idea.txt)
+* [Radford, Deniece](radfden-idea.txt)
 * [Sawamura, Shunichi](sawashu-idea.txt)
 * [Shepherd, Jason](shepherd-idea.txt)
 * [Shepherd, jbshepspam](jbshepspam-idea.txt)
